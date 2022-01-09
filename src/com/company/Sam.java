@@ -1,2 +1,4 @@
-package com.company;public class Sam {
+package com.company;
+
+public class Sam {
 }
